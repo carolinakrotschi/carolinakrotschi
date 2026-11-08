@@ -34,7 +34,6 @@ A voice-powered hospital navigation agent developed at the Industrial Agents Hac
 
 **[Personal Website](https://carolinakrotschi.github.io/)**  
 My personal website featuring research, projects, and experience in physics and photonics.  
-[View Repository](https://github.com/carolinakrotschi/carolinakrotschi.github.io)
 
 ---
 
